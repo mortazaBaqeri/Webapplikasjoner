@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DOpaGvd+Ac98Us6PmZk7iIrgTvtibTwY4ehQbN1meEeKMIw5XbRvd06qY4ajJbO2eW6S09cy8CcRCVbBYLrg/Q==",
+  "success": true,
+  "projectFilePath": "/Users/mortaza/Documents/GitHub/Webapplikasjoner/Kunde/Kunde/Kunde.csproj",
+  "expectedPackageFiles": [
+    "/Users/mortaza/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/mortaza/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/mortaza/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

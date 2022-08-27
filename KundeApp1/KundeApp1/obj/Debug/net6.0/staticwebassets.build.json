@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "XFtVPWC5SHfAZG4BSJmxFzkfYVRPrn0ZqQIKdz9Ry1U=",
+  "Source": "KundeApp1",
+  "BasePath": "_content/KundeApp1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KundeApp1/wwwroot",
+      "Source": "KundeApp1",
+      "ContentRoot": "/Users/mortaza/Documents/GitHub/Webapplikasjoner/KundeApp1/KundeApp1/wwwroot/",
+      "BasePath": "_content/KundeApp1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/mortaza/Documents/GitHub/Webapplikasjoner/KundeApp1/KundeApp1/wwwroot/index.html",
+      "SourceId": "KundeApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mortaza/Documents/GitHub/Webapplikasjoner/KundeApp1/KundeApp1/wwwroot/",
+      "BasePath": "_content/KundeApp1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/mortaza/Documents/GitHub/Webapplikasjoner/KundeApp1/KundeApp1/wwwroot/js/index.js",
+      "SourceId": "KundeApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mortaza/Documents/GitHub/Webapplikasjoner/KundeApp1/KundeApp1/wwwroot/",
+      "BasePath": "_content/KundeApp1",
+      "RelativePath": "js/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/index.js"
+    }
+  ]
+}
